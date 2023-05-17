@@ -1,1 +1,2 @@
-# MangubatKisha2A_ResponsiveDesign
+# Eduford
+A tutorial project from Easy Tutorials
